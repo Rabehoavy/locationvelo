@@ -1,11 +1,13 @@
 # locationvelo
 
 ## Brief
-L'application doit avoir 3 interfaces : admin, vendeur, client.
-Cette application permet de louer des vélos.
-les fonctionnalités : 
-admin : tous les droits
-vendeur : checker l'état et la disponibilité des véhicules
+L'application doit avoir 3 interfaces : admin, vendeur, client.  
+ Cette application permet de louer des vélos.  
+ 
+ 
+  les fonctionnalités :   
+admin : tous les droits  
+vendeur : checker l'état et la disponibilité des véhicules  
 utilisateur : louer des véhicules et accessoires
 
 ### INTERFACE ADMIN

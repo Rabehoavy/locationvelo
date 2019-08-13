@@ -10,7 +10,17 @@ admin : tous les droits
 vendeur : checker l'état et la disponibilité des véhicules  
 utilisateur : louer des véhicules et accessoires
 
-### INTERFACE ADMIN
+## Tâches
+
+- Cannot POST /admin/parcours/parcours/add
+- page etat ne fonctionne pas
+- page reservation, l edit ne fonctionne pas
+- page utilisateur, l add ne fonctionne pas
+- page location add ne marche pas
+- page parcours : regarder personnaliser
+- role à revoir ?
+
+### Site côté admin
 
 #### Gestion des rôles
 

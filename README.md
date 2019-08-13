@@ -20,8 +20,6 @@ utilisateur : louer des véhicules et accessoires
 - page parcours : regarder personnaliser
 - role à revoir ?
 
-- modif sql : Etienne
-
 ### Site côté admin
 
 #### Gestion des rôles

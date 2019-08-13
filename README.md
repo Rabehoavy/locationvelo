@@ -12,13 +12,15 @@ utilisateur : louer des véhicules et accessoires
 
 ## Tâches
 
-- Cannot POST /admin/parcours/parcours/add : Etienne
+- Cannot POST /admin/parcours/parcours/add
 - page etat ne fonctionne pas
 - page reservation, l edit ne fonctionne pas : Ando
 - page utilisateur, l add ne fonctionne pas : Océane
 - page location add ne marche pas : Yoann
 - page parcours : regarder personnaliser
 - role à revoir ?
+
+- modif sql : Etienne
 
 ### Site côté admin
 

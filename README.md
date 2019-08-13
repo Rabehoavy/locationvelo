@@ -16,7 +16,7 @@ utilisateur : louer des véhicules et accessoires
 - page etat ne fonctionne pas
 - page reservation, l edit ne fonctionne pas : Ando
 - page utilisateur, l add ne fonctionne pas : Océane
-- page location add ne marche pas : Yoann
+- page location edit ne marche pas : Yoann
 - page parcours : regarder personnaliser
 - role à revoir ?
 

@@ -12,7 +12,7 @@ utilisateur : louer des véhicules et accessoires
 
 ## Tâches
 
-- Cannot POST /admin/parcours/parcours/add
+- Cannot POST /admin/parcours/parcours/add - Etienne
 - page etat ne fonctionne pas
 - page reservation, l edit ne fonctionne pas
 - page utilisateur, l add ne fonctionne pas : Océane
